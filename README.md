@@ -66,7 +66,7 @@ fixed: Positioned relative to the viewport.
 
 ### 3. What is the difference between > and (space) in CSS selectors?
 
-> selects direct children, while (space) selects all descendants.
+ ' > ' selects direct children, while (space) selects all descendants.
 
 
 ### 4. What is the difference between border-box and content-box?
