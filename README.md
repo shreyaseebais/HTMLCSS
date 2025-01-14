@@ -20,6 +20,26 @@
 **[⬆ Back to Top](#table-of-contents)**
 
 ----------------------------------------------------------------------------------------------------------------------
+### SHORTCUTS
+
+**html:5**
+Gives basic html skeleton:
+```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+    </body>
+    </html>
+```
+
+
+
 1. ### How to Stretch Elements to Fit the Whole Height of the Browser Window Using CSS?
 To stretch elements to fit the whole height of the browser window using CSS, you can use "vh" units, where "1vh" equals 1% of the viewport height, so setting the height to "100vh" spans the entire height.
 
